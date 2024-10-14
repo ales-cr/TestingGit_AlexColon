@@ -1,0 +1,13 @@
+*.class
+*.exe
+*.log
+*.tmp
+*.swp
+/build/
+/target/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp3
+*.wav
